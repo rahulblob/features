@@ -13,7 +13,6 @@ Buttons:<br>
 ```<button class="button">button</button>```<br>
 To change background colours add data-background="colour", for example ```<button class="button" data-background="red">button</button>```<br>
 Header Notification:<br/>
-```<input type="checkbox" id="nI"/>
-  <div class="notification"><span class="span">This is a notification</span><label for="nI" class="cNotif">✕</label></div>```<br>
+```<input type="checkbox" id="nI"/><div class="notification"><span class="span">This is a notification</span><label for="nI" class="cNotif">✕</label></div>```<br>
 # Support Me
 <a href="https://www.buymeacoffee.com/coffeeforahul">BuyMeaCoffee</a>
