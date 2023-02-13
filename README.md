@@ -10,7 +10,7 @@ Toast Notification:
  ```<div class="toast"></div>```
 To Trigger Toast Using Button: use onClick="toast("message") or Use It In A Function: toast("message");<br>
 Buttons:<br>
-```<button class="button">click</button>```<br>
-To change background colours add data-background="colour": for red use colour red and for other use colour name.<br>
+```<button class="button">button</button>```<br>
+To change background colours add data-background="colour", for example ```<button class="button" data-background="red">button</button>```<br>
 # Support Me
 <a href="https://www.buymeacoffee.com/coffeeforahul">BuyMeaCoffee</a>
