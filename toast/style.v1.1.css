@@ -1,4 +1,3 @@
   .toast span{background: #272626;position: fixed;bottom:0;left:15px;margin-bottom: 10px; padding:16px 21px;text-align: center;color:rgba(255,255,255,.8);font-size: 17px;outline: none;animation: toast 5s forwards;border-radius: 9px;box-shadow: 0px 0px 10px rgba(0,0,0,0.05);}
 @media screen and (max-width:600px) {.toast span{bottom: 0;left:0;right: 0;margin-bottom: 0;border-radius: 0px;}}
 @keyframes toast {0%{opacity: 1; bottom: -90%;}10%{opacity: 1;bottom: -60%;}20%{opacity: 1;bottom: 0;}30%{opacity: 1;bottom: 0;}40%{opacity: 1;bottom: 0;}50%{opacity: 1;bottom: 0;}60%{opacity: 1;bottom: 0;}65%{opacity: 1;bottom: 0;}70%{opacity: 0;bottom: -40%;}80%{opacity: 0;bottom: -70%;}100%{opacity: 0;visibility: hidden;bottom: -100%;}}
-button{padding: 10px 15px;background: #0d3ca9;border:none;border-radius: 25px;font-size: 17px;color: #f3f3f3;box-shadow: 0px 10px 10px #acc1f4;}
