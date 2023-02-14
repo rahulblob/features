@@ -29,8 +29,8 @@ toast("message")
 
 # Progress Bar
 add this html code after <header>or <body>:
-```
-html<div class="progress1/>
+```html
+<div class="progress1/>
 ```
 # Popup modal
 To trigger popup using button use:
