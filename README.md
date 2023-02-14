@@ -18,11 +18,11 @@ CSS:
 ```html
 <div class="toast"></div>
 ```
-To Trigger Toast Using Button:
+To Trigger Toast Using ```Button```:
 ```html
 <button onClick="toast('message here!')">button</button>
 ```
-or Use It In A Function:
+or Use It In a ```Function```:
 ```js
 toast("message")
 ```
@@ -33,11 +33,11 @@ add this html code after ```<header>``` or ```<body>```:
 <div class="progress1/>
 ```
 # Popup modal
-To trigger popup using button use:
+To trigger popup using ```button``` use:
 ```js
 onClick="popupTrigger("message")
 ```
-or trigger using in a function:
+or trigger using in a ```function```:
 ```js
 popupTrigger("message")
 ```
