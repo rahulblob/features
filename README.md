@@ -8,4 +8,4 @@ Buttons:<br>
 JavaScript:<br>
 ```<script src="https://cdn.jsdelivr.net/gh/rahulblob/features/progress_bar/script.v1.0.js"></script>```<br>
 CSS:<br>
-```<style rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rahulblob/features/progress_bar/style.v1.1.css"/>```
+```<style rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rahulblob/features/progress_bar/style.v1.2.css"/>```
