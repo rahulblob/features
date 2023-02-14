@@ -17,3 +17,6 @@ add ```<div class="progress1/>``` after ```<header>``` or ```<head>```
 
 # Popup modal
 To trigger popup using button use ```onClick="popupTrigger("message")``` or use in a function ```popupTrigger("message")```
+
+# Supporters
+<a href="https://www.buymeacoffee.com/coffeeforahul"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=coffeeforahul&button_colour=5F7FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
