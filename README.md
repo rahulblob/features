@@ -17,8 +17,17 @@ CSS:
 
 ```html
 <div class="toast"></div>
-``` <br>
-To Trigger Toast Using Button: use ```onClick="toast("message")``` or Use It In A Function: ```toast("message")```;<br>
+```
+<br>
+To Trigger Toast Using Button:
+<br>
+```html
+<button onClick="toast("message")>button</button>
+```
+or Use It In A Function:
+```html
+toast("message")```
+<br>
 Buttons:<br>
 
 # Progress Bar
