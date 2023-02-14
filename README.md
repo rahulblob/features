@@ -23,12 +23,12 @@ To Trigger Toast Using Button:
 ```html
 <button onClick="toast("message")>button</button>
 ```
+<br>
 or Use It In A Function:
 ```html
 toast("message")
 ```
 <br>
-Buttons:<br>
 
 # Progress Bar
 add
