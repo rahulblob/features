@@ -6,6 +6,6 @@ divC.id = "PreLoaderBar";
 document.onreadystatechange = function () {
             if (document.readyState === "complete") {
                 console.log(document.readyState);
-                document.getElementById("PreLoaderBar").style.top = "calc(100% + 50px)";
+                document.getElementById("PreLoaderBar").style.visibility = "hidden";
             }
         }
