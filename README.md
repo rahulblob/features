@@ -13,6 +13,7 @@ To Trigger Toast Using Button: use ```onClick="toast("message")``` or Use It In 
 Buttons:<br>
 
 # Progress Bar
-automatic
+add ```<div class="progress1/>``` after ```<header>``` or ```<head>```
+
 # Popup modal
 To trigger popup using button use ```onClick="popupTrigger("message")``` or use in a function ```popupTrigger("message")```
