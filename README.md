@@ -3,10 +3,13 @@ a css / js precoded features, with minimum use of html to reduce size of your we
 # Import css/js
 JavaScript:<br>
 ```html
-<script src="https://cdn.jsdelivr.net/gh/rahulblob/features/resources/script.v1.1.js"></script>``` <br>
-CSS:<br>
-```
-html<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rahulblob/features/resources/style.v1.1css"/>```
+<script src="https://cdn.jsdelivr.net/gh/rahulblob/features/resources/script.v1.1.js"></script>```
+<br>
+CSS:
+<br>
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rahulblob/features/resources/style.v1.1css"/>```
 
 # Toast Notification
 
