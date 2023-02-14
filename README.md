@@ -13,3 +13,9 @@ JavaScript:<br>
 ```<script src="https://cdn.jsdelivr.net/gh/rahulblob/features/progress_bar/script.v2.js"></script>```<br>
 CSS:<br>
 ```<style rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rahulblob/features/progress_bar/style.v1.3.css"/>```
+# Popup modal
+JavaScript:<br>
+```<script src="https://cdn.jsdelivr.net/gh/rahulblob/features/popup_modal/script.v1.1.js"></script>```<br>
+CSS:<br>
+```<style rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rahulblob/features/popup_modal/style.v1.1.css"/>```<br>
+To trigger popup using button use ```onClick="popupTrigger("message")``` or use in a function ```popupTrigger("message")```
