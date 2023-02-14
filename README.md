@@ -20,11 +20,9 @@ CSS:
 ```
 <br>
 To Trigger Toast Using Button:
-<br>
 ```html
 <button onClick="toast("message")>button</button>
 ```
-<br>
 or Use It In A Function:
 ```html
 toast("message")
@@ -33,8 +31,13 @@ toast("message")
 Buttons:<br>
 
 # Progress Bar
-add ```
-html<div class="progress1/>``` after ```<header>``` or ```<head>```
+add
+```
+html<div class="progress1/>
+``` after 
+```<header>```
+ or 
+```<head>```
 
 # Popup modal
 To trigger popup using button use ```onClick="popupTrigger("message")``` or use in a function ```popupTrigger("message")```
