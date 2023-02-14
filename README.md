@@ -21,7 +21,7 @@ CSS:
 <br>
 To Trigger Toast Using Button:
 ```html
-<button onClick="toast("message")>button</button>
+<button onClick="toast('message here!')">button</button>
 ```
 <br>
 or Use It In A Function:
