@@ -23,21 +23,24 @@ To Trigger Toast Using Button:
 <button onClick="toast('message here!')">button</button>
 ```
 or Use It In A Function:
-```html
+```js
 toast("message")
 ```
 
 # Progress Bar
-add
+add this html code after <header>or <body>:
 ```
 html<div class="progress1/>
-``` after 
-```<header>```
- or 
-```<head>```
-
+```
 # Popup modal
-To trigger popup using button use ```onClick="popupTrigger("message")``` or use in a function ```popupTrigger("message")```
+To trigger popup using button use:
+```js
+onClick="popupTrigger("message")
+```
+or trigger using in a function:
+```js
+popupTrigger("message")
+```
 
 # Supporters
 <a href="https://www.buymeacoffee.com/coffeeforahul"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=coffeeforahul&button_colour=5F7FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
