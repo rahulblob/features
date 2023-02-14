@@ -20,7 +20,7 @@ CSS:
 ```
 To Trigger Toast Using ```Button```:
 ```html
-<button onClick="toast('message here!')">button</button>
+<button onClick="toast('message here!')">toast button</button>
 ```
 or Use It In a ```Function```:
 ```js
@@ -34,8 +34,8 @@ add this html code after ```<header>``` or ```<body>```:
 ```
 # Popup modal
 To trigger popup using ```button``` use:
-```js
-onClick="popupTrigger("message")
+```html
+<button onClick='popupTrigger("message here!")'>popup button</button>
 ```
 or trigger using in a ```function```:
 ```js
