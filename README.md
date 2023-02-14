@@ -6,7 +6,7 @@ JavaScript:<br>
 CSS:<br>
 ```<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rahulblob/features/resources/style.v1.1css"/>```
 
-#Toast Notification
+# Toast Notification
 
 ```<div class="toast"></div>```<br>
 To Trigger Toast Using Button: use ```onClick="toast("message")``` or Use It In A Function: ```toast("message")```;<br>
