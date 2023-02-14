@@ -1,6 +1,4 @@
 <a href="https://www.buymeacoffee.com/coffeeforahul"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=coffeeforahul&button_colour=5F7FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
-<script src="https://cdn.jsdelivr.net/gh/rahulblob/features/resources/script.v1.1.js " ></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rahulblob/features/resources/style.v1.1css"/>
 
 # Features
 a css / js precoded features, with minimum use of html to reduce size of your website codes.
