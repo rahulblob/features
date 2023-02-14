@@ -7,5 +7,6 @@ document.onreadystatechange = function () {
             if (document.readyState === "complete") {
                 console.log(document.readyState);
                 document.getElementById("PreLoaderBar").style.visibility = "hidden";
-            }
+            document.getElementById("PreLoaderBar").style.bottom = "0";
+}
         }
