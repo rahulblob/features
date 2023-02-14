@@ -21,7 +21,9 @@ To Trigger Toast Using ```Button```:
 ```
 or Use It In a ```Function```:
 ```js
+function myfunction(){
 toast("message")
+}
 ```
 
 # Progress Bar
@@ -36,7 +38,9 @@ To trigger popup using ```button``` use:
 ```
 or trigger using in a ```function```:
 ```js
+function myfunction(){
 popupTrigger("message")
+}
 ```
 
 # Supporters
