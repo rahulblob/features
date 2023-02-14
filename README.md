@@ -1,5 +1,5 @@
 # Features
-a css / js precoded features
+a css / js precoded features, with minimum use of html to reduce size of your website codes.
 # Toast Notification
 JavaScript:<br>
 ```<script src="https://cdn.jsdelivr.net/gh/rahulblob/features/toast/script.v2.9.js"></script>```<br>
