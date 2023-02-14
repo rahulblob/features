@@ -18,17 +18,14 @@ CSS:
 ```html
 <div class="toast"></div>
 ```
-<br>
 To Trigger Toast Using Button:
 ```html
 <button onClick="toast('message here!')">button</button>
 ```
-<br>
 or Use It In A Function:
 ```html
 toast("message")
 ```
-<br>
 
 # Progress Bar
 add
