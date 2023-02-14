@@ -45,4 +45,4 @@ popupTrigger("message")
 ```
 
 # Supporters
-<a href="https://www.buymeacoffee.com/coffeeforahul"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=coffeeforahul&button_colour=5F7FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<img src="https://img.buymeacoffee.com/button-api/?text=Total Coffees&emoji=&slug=coffeeforahul&button_colour=5F7FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" />
