@@ -2,16 +2,17 @@
 # Features
 > a css / js precoded features, with minimum use of html to reduce size of your website codes <
 # Import css/js
-Add this ```JavaScript``` before ```</body>```:
+Add this ```JavaScript``` before ```</body>```
+
 ```html
 <script src="https://cdn.jsdelivr.net/gh/rahulblob/features/resources/script.v1.1.js"></script>
 ```
-Add this ```CSS``` before ```</head>```:
+Add this ```CSS``` before ```</head>```
 
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rahulblob/features/resources/style.v1.1css"/>
 ```
-
+<br>
 # Toast Notification
 
 ```html
