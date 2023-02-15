@@ -7,6 +7,7 @@ Add this ```JavaScript``` before ```</body>```:
 <script src="https://cdn.jsdelivr.net/gh/rahulblob/features/resources/script.v1.1.js"></script>
 ```
 Add this ```CSS``` before ```</head>```:
+
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rahulblob/features/resources/style.v1.1css"/>
 ```
