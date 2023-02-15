@@ -11,7 +11,7 @@ Add this ```JavaScript``` before ```</body>```
 
 Add this ```CSS``` before ```</head>```
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rahulblob/features/resources/style.v1.1css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rahulblob/features/resources/style.v1.1.css"/>
 ```
 # Toast Notification
 ```html
