@@ -28,10 +28,11 @@ toast("message")
 ```
 
 # Progress Bar
-```html free!```<br>
-to hide it:
-```js
-progressHide();
+paste this html code in your <header> tag:
+```html
+<div class='progress' id='PreLoaderBar'>
+        <div class='indeterminate'/>
+    </div>
 ```
 # Popup modal
 ```html free!```<br>
