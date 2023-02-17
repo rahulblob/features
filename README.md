@@ -30,7 +30,7 @@ toast("message")
 # Progress Bar
 > ⚠️ might buggy in some sites.
 
-paste this html code in your <header> tag:
+paste this html code in your ```<header>``` tag:
 ```html
 <div class='progress' id='PreLoaderBar'>
         <div class='indeterminate'/>
