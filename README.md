@@ -6,7 +6,7 @@ a css / js precoded features, with minimum use of html to reduce size of your we
 
 Add this ```JavaScript``` before ```</body>```
 ```html
-<script src="https://cdn.jsdelivr.net/gh/rahulblob/features/resources/script.v2.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/rahulblob/features/resources/script.v2.1.js"></script>
 ```
 
 Add this ```CSS``` before ```</head>```
