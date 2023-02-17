@@ -7,7 +7,7 @@ a css / js precoded features, with minimum use of html (append method) to reduce
 
 Add this ```JavaScript``` before ```</body>```
 ```html
-<script src="https://cdn.jsdelivr.net/gh/rahulblob/features/resources/script.v3.1.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/rahulblob/features/resources/script.v3.3.js"></script>
 ```
 
 Add this ```CSS``` before ```</head>```
