@@ -2,7 +2,6 @@
 # What is Features?
 a css / js precoded features, with minimum use of html to reduce size of your website codes.
 > ⚠️ don't forget to change the cdn version according to features/resources/script or style file name to get updated features!
-<br>
 
 # Import css/js
 
