@@ -7,12 +7,12 @@ a css / js precoded features, with minimum use of html (append method) to reduce
 
 Add this ```JavaScript``` before ```</body>```
 ```html
-<script src="https://cdn.jsdelivr.net/gh/rahulblob/features/resources/script.v2.1.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/rahulblob/features/resources/script.v3.1.js"></script>
 ```
 
 Add this ```CSS``` before ```</head>```
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rahulblob/features/resources/style.v2.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rahulblob/features/resources/style.v3.3.css"/>
 ```
 # Toast Notification
 ```html free!```<br>
