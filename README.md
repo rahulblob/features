@@ -6,12 +6,12 @@ a css / js precoded features, with minimum use of html to reduce size of your we
 
 Add this ```JavaScript``` before ```</body>```
 ```html
-<script src="https://cdn.jsdelivr.net/gh/rahulblob/features/resources/script.v1.2.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/rahulblob/features/resources/script.v1.3.js"></script>
 ```
 
 Add this ```CSS``` before ```</head>```
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rahulblob/features/resources/style.v1.4.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rahulblob/features/resources/style.v1.3.css"/>
 ```
 # Toast Notification
 ```html
