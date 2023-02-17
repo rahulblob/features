@@ -1,17 +1,17 @@
 <a href="https://www.buymeacoffee.com/coffeeforahul"><img src="https://img.buymeacoffee.com/button-api/?text=Buy Me A Coffee&emoji=&slug=coffeeforahul&button_colour=5F7FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00"/></a>
 # Features
 a css / js precoded features, with minimum use of html to reduce size of your website codes.
-
+> :warning: don't forget to change the cdn version according to features/resources/script or style file name to get updated features!
 # Import css/js
 
 Add this ```JavaScript``` before ```</body>```
 ```html
-<script src="https://cdn.jsdelivr.net/gh/rahulblob/features/resources/script.v1.1.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/rahulblob/features/resources/script.v1.2.js"></script>
 ```
 
 Add this ```CSS``` before ```</head>```
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rahulblob/features/resources/style.v1.2.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rahulblob/features/resources/style.v1.4.css"/>
 ```
 # Toast Notification
 ```html
