@@ -6,7 +6,7 @@ a css / js precoded features, with minimum use of html to reduce size of your we
 
 Add this ```JavaScript``` before ```</body>```
 ```html
-<script src="https://cdn.jsdelivr.net/gh/rahulblob/features/resources/script.v1.3.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/rahulblob/features/resources/script.v2.js"></script>
 ```
 
 Add this ```CSS``` before ```</head>```
@@ -14,9 +14,7 @@ Add this ```CSS``` before ```</head>```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rahulblob/features/resources/style.v2.css"/>
 ```
 # Toast Notification
-```html
-<div class="toast"></div>
-```
+```html free!```<br>
 To Trigger Toast Using ```Button```:
 ```html
 <button onClick="toast('message here!')">toast button</button>
@@ -29,11 +27,13 @@ toast("message")
 ```
 
 # Progress Bar
-add this html code after ```<header>``` or ```<body>```:
-```html
-<div class="progress1"/>
+```html free!```<br>
+to hide it:
+```js
+progressHide();
 ```
 # Popup modal
+```html free!```<br>
 To trigger popup using ```button``` use:
 ```html
 <button onClick='popupTrigger("message here!")'>popup button</button>
