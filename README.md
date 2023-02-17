@@ -48,7 +48,7 @@ function myfunction(){
 popupTrigger("message")
 }
 ```
-# Loading Icon/svg
+/*# Loading Icon/svg
 paste this ```html``` anywhere you want to display this ```loader```:<br>
 ```html
 <div class="rota"></div>
@@ -61,6 +61,6 @@ change ```color``` to any ```colour``` you want and ```hideIn``` in ```seconds``
 ```js
 rotaSettings("red","3000");
 ```
-where ```"3000"``` is equal to ```3 seconds```
+where ```"3000"``` is equal to ```3 seconds```*/
 # Supporters
 <a href="https://www.buymeacoffee.com/coffeeforahul"><img style="pointer-events:none;cursor:default;" src="https://img.buymeacoffee.com/button-api/?text=Total Coffees&emoji=&slug=coffeeforahul&button_colour=5F7FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00"/></a>
