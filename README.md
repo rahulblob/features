@@ -1,5 +1,5 @@
 <a href="https://www.buymeacoffee.com/coffeeforahul"><img src="https://img.buymeacoffee.com/button-api/?text=Buy Me A Coffee&emoji=&slug=coffeeforahul&button_colour=5F7FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00"/></a>
-# Features
+# HTML/CSS/JS Features
 a css / js precoded features, with minimum use of html to reduce size of your website codes.
 > ⚠️ don't forget to change the cdn version according to features/resources/script or style file name to get updated features!
 <br>
