@@ -49,18 +49,21 @@ popupTrigger("message")
 }
 ```
 # loading rotation svg
-use this html to display:
+use this ```html``` to display:
 ```html
 <div class="rota"></div>
 ```
 ```Customisation```<br>
-to change colour use:
+to change ```colour``` use:
 ```css
 .rota{
 border:3px solid red;
 border-bottom:3px solid rgba(255,255,255,.0);
 }
 ```
+change ```red``` to any colour you want!
+
 > ⚠️ don't forget to add ```border-bottom:3px solid rgba(255,255,255,.0);``` in css if you changing colour or might it be buggy.
+
 # Supporters
 <a href="https://www.buymeacoffee.com/coffeeforahul"><img style="pointer-events:none;cursor:default;" src="https://img.buymeacoffee.com/button-api/?text=Total Coffees&emoji=&slug=coffeeforahul&button_colour=5F7FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00"/></a>
