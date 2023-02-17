@@ -53,16 +53,18 @@ use this ```html``` to display:
 ```html
 <div class="rota"></div>
 ```
-
+<br>
 ```Customisation```:
 <br>
 to change ```colour``` use:
+
 ```css
 .rota{
 border:3px solid red;
 border-bottom:3px solid rgba(255,255,255,.0);
 }
 ```
+
 change ```red``` to any colour you want!
 
 > ⚠️ don't forget to add ```border-bottom:3px solid rgba(255,255,255,.0);``` in css if you changing colour or might it be buggy.
