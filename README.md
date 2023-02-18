@@ -15,7 +15,7 @@ Add this ```CSS``` before ```</head>```
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rahulblob/features/css/style.v2.3.css"/>
 ```
-<header id="docs"></header>
+
 # Toast Notification
 ```html free!```<br>
 To Trigger Toast Using ```Button```:
