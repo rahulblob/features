@@ -53,9 +53,7 @@ use this ```html``` to display:
 ```html
 <div class="rota"></div>
 ```
-<br>
-```Customisation```:
-<br>
+
 to change ```colour``` use:
 
 ```css
