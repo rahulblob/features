@@ -1,7 +1,7 @@
 <a href="https://www.buymeacoffee.com/coffeeforahul"><img src="https://img.buymeacoffee.com/button-api/?text=Buy Me A Coffee&emoji=&slug=coffeeforahul&button_colour=5F7FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00"/></a>
 # What is Features?
 a css / js precoded features, with minimum use of html (append method) to reduce size of your website codes.
-> ⚠️ don't forget to change the cdn version according to <a href="https://github.com/rahulblob/features/tree/main/resources">script/style</a> file name to get updated features!
+> ⚠️ don't forget to change the cdn version according to <a href="https://github.com/rahulblob/features/tree/main/">script/style</a> file name to get updated features!
 
 # Import css/js
 
