@@ -51,7 +51,8 @@ popupTrigger("message")
 }
 ```
 # loading rotation svg
-use this code to display:
+use this code to display ```rotation svg```:
+
 ```html
 <div class="rota"></div>
 ```
