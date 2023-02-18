@@ -70,14 +70,14 @@ change ```red``` to any colour you want!
 > ⚠️ don't forget to add ```border-bottom:3px solid rgba(255,255,255,.0);``` in css if you changing colour or might it be buggy.
 
 # Tooltip
-tooltip ```up``` html:
+tooltip ```up```:
 ```html
   <div>
     <span tooltip="I'm up above it!">Up</span>
   </div>
 ```
 
-tooltip ```left``` html:
+tooltip ```left```:
 
 ```html
   <div>
@@ -86,7 +86,7 @@ tooltip ```left``` html:
   </div>
 ```
 
-tooltip ```down``` html:
+tooltip ```down```:
 
 ```html
   <div>
