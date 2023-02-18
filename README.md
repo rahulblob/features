@@ -13,7 +13,7 @@ Add this ```JavaScript``` before ```</body>```
 
 Add this ```CSS``` before ```</head>```
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rahulblob/features/css/style.v2.2.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rahulblob/features/css/style.v2.3.css"/>
 ```
 # Toast Notification
 ```html free!```<br>
@@ -67,6 +67,33 @@ border-bottom:3px solid rgba(255,255,255,.0);
 change ```red``` to any colour you want!
 
 > ⚠️ don't forget to add ```border-bottom:3px solid rgba(255,255,255,.0);``` in css if you changing colour or might it be buggy.
+
+# Tooltip
+tooltip ```up``` html:
+```html
+  <div>
+    <span tooltip="I'm up above it!">Up</span>
+  </div>
+```
+
+tooltip ```left``` html:
+
+```html
+  <div>
+    <span tooltip="Slide to the left" flow="left">Left</span>
+    <span tooltip="Slide to the right" flow="right">Right</span>
+  </div>
+```
+
+tooltip ```down``` html:
+
+```html
+  <div>
+    <span tooltip="Get Down." flow="down">Down</span>
+  </div>
+```
+
+> flow shows ```direction``` of tooltip, ```tooltip=""``` shows content whenever hover.
 
 # Supporters
 <a href="https://www.buymeacoffee.com/coffeeforahul"><img style="pointer-events:none;cursor:default;" src="https://img.buymeacoffee.com/button-api/?text=Total Coffees&emoji=&slug=coffeeforahul&button_colour=5F7FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00"/></a>
