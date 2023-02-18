@@ -1,7 +1,7 @@
 <a href="https://www.buymeacoffee.com/coffeeforahul"><img style="pointer-events:none;cursor:default;" src="https://img.buymeacoffee.com/button-api/?text=Buy Me A Coffee&emoji=&button_colour=5F7FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00"/></a>
 
 # What is Features?
-a css / js precoded with enreach features, every week.we update and add a new <a href="#docs">See Documentations</a>!
+a css / js precoded with enreach features, every week.we update and add a new <a href="https://features.rahul.eu.org">See Documentations</a>!
 > ⚠️ don't forget to change the cdn version according to <a href="https://github.com/rahulblob/features/tree/main/js">JavaScript</a>/<a href="https://github.com/rahulblob/features/tree/main/css">CSS</a> file name to get updated features!
 
 # Import css/js
