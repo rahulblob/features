@@ -1,4 +1,5 @@
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="coffeeforahul" data-color="#5F7FFF" data-emoji=""  data-font="Comic" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+<a href="https://www.buymeacoffee.com/coffeeforahul"><img style="pointer-events:none;cursor:default;" src="https://img.buymeacoffee.com/button-api/?text=Total Coffees&emoji=&slug=coffeeforahul&button_colour=5F7FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00"/></a>
+
 # What is Features?
 a css / js precoded features, with minimum use of html (append method) to reduce size of your website codes.
 > ⚠️ don't forget to change the cdn version according to <a href="https://github.com/rahulblob/features/tree/main/js">JavaScript</a>/<a href="https://github.com/rahulblob/features/tree/main/css">CSS</a> file name to get updated features!
