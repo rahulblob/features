@@ -32,7 +32,7 @@ toast("message")
 # Progress Bar
 > ⚠️ might buggy in some sites.
 
-paste this html code in your ```<header>``` tag:
+paste this code in your ```<header>``` tag:
 ```html
 <div class='progress' id='PreLoaderBar'>
         <div class='indeterminate'/>
@@ -51,7 +51,7 @@ popupTrigger("message")
 }
 ```
 # loading rotation svg
-use this ```html``` to display:
+use this code to display:
 ```html
 <div class="rota"></div>
 ```
